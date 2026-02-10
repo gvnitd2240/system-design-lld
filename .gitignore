@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+
+# Java
+*.class
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
+# Optional
+out/
