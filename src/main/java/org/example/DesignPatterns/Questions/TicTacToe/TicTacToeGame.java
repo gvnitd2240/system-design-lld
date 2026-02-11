@@ -1,7 +1,5 @@
 package org.example.DesignPatterns.Questions.TicTacToe;
 
-import org.example.DesignPatterns.Questions.TicTacToe.TicTacToeSystem;
-import org.example.DesignPatterns.Questions.TicTacToe.dataclasses.Cell;
 import org.example.DesignPatterns.Questions.TicTacToe.dataclasses.Player;
 import org.example.DesignPatterns.Questions.TicTacToe.enums.Symbol;
 

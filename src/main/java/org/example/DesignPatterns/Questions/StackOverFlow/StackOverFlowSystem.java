@@ -4,7 +4,6 @@ import org.example.DesignPatterns.Questions.StackOverFlow.entities.*;
 import org.example.DesignPatterns.Questions.StackOverFlow.entities.interfaces.Commentable;
 import org.example.DesignPatterns.Questions.StackOverFlow.entities.interfaces.Votable;
 import org.example.DesignPatterns.Questions.StackOverFlow.enums.VoteType;
-import org.example.DesignPatterns.Questions.StackOverFlow.search.SearchByUserStretegy;
 import org.example.DesignPatterns.Questions.StackOverFlow.search.SearchStretegy;
 
 import java.util.*;
