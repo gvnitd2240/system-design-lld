@@ -2,7 +2,6 @@ package org.example.DesignPatterns.Questions.LoggingFramework;
 
 import org.example.DesignPatterns.Questions.LoggingFramework.enums.LogLevel;
 import org.example.DesignPatterns.Questions.LoggingFramework.processor.ExectionServiceLogProcessor;
-import org.example.DesignPatterns.Questions.LoggingFramework.processor.ThreadPoolExecutionService;
 import org.example.DesignPatterns.Questions.LoggingFramework.strategies.appender.ConsoleAppender;
 
 public class LoggingFrameworkDemo {
